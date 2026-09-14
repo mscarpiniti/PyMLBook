@@ -28,12 +28,14 @@ The book, based on the author's teaching experience, aims to introduce the funda
 19. [Complete machine learning projects]()
 20. [Reinforcement learning]()
 21. [Concluding remarks]()
-A. [Data representation and sampling]()
-B. [Probability and stochastic processes]()
-C. [Estimation theory]()
-D. [Metaheuristic optimization]()
-E. [Reproducible machine learning]()
-F. [Ethics and responsible machine learning]()
+<ol style="list-style-type: upper-alpha">
+<li>A. [Data representation and sampling]()</li>
+<li>B. [Probability and stochastic processes]()</li>
+<li>C. [Estimation theory]()</li>
+<li>D. [Metaheuristic optimization]()</li>
+<li>E. [Reproducible machine learning]()</li>
+<li>F. [Ethics and responsible machine learning]()</li>
+</ol>
 
 
 ## About
