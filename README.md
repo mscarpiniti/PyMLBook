@@ -28,7 +28,7 @@ The book, based on the author's teaching experience, aims to introduce the funda
 19. [Complete machine learning projects]()
 20. [Reinforcement learning]()
 21. [Concluding remarks]()
-<ol style="list-style-type: upper-alpha">
+<ol type="A">
 <li>A. [Data representation and sampling]()</li>
 <li>B. [Probability and stochastic processes]()</li>
 <li>C. [Estimation theory]()</li>
