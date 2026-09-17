@@ -1,4 +1,4 @@
-# Python for Data Science
+# Python for Machine Learning
 
 This repository contains all the sorce code of [**Python for Machine Learning**]() book, in the form of Jupyter notebooks.
 The book, based on the author's teaching experience, aims to introduce the fundamental concepts of Python with applications in machine learning and its applications.
