@@ -29,7 +29,7 @@ The book, based on the author's teaching experience, aims to introduce the funda
 20. [Reinforcement learning]()
 21. [Concluding remarks]()
 <ol type="A">
-<li>[Data representation and sampling]()</li>
+<li><a href="Data representation and sampling">Data representation and sampling]</a></li>
 <li>[Probability and stochastic processes]()</li>
 <li>[Estimation theory]()</li>
 <li>[Metaheuristic optimization]()</li>
