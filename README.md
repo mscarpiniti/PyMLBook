@@ -1,6 +1,6 @@
 # Python for Machine Learning
 
-This repository contains all the sorce code of [**Python for Machine Learning**]() book, in the form of Jupyter notebooks.
+This repository contains all the sorce code of [**Python for Machine Learning**](https://www.amazon.it/dp/B0HKNG117D) book, in the form of Jupyter notebooks.
 The book, based on the author's teaching experience, aims to introduce the fundamental concepts of Python with applications in machine learning and its applications.
 
 <img title="Python for Machine Learning" alt="Python for Machine Learning" src="PyML.jpg" width="200">
