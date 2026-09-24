@@ -29,7 +29,7 @@ The book, based on the author's teaching experience, aims to introduce the funda
 20. [Reinforcement learning](Notebooks/20_Reinforcement_learning.ipynb)
 21. [Concluding remarks](Notebooks/21_Concluding_remarks.ipynb)
 <ol type="A">
-<li><a href="Data representation and sampling">Notebooks/A_Data_representation_and_sampling.ipynb]</a></li>
+<li><a href="Notebooks/A_Data_representation_and_sampling.ipynb">Data representation and sampling</a></li>
 <li>[Probability and stochastic processes]()</li>
 <li>[Estimation theory]()</li>
 <li>[Metaheuristic optimization]()</li>
