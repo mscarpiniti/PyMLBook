@@ -14,22 +14,22 @@ The book, based on the author's teaching experience, aims to introduce the funda
 5. [Main Python libraries](Notebooks/5_Main_Python_libraries.ipynb)
 6. [Data manipulation](Notebooks/6_Data_manipulation.ipynb)
 7. [Exploratory Data Analysis](Notebooks/7_Exploratory_Data_Analysis.ipynb)
-8. [Introduction to machine learning]()
-9. [Optimization for machine learning]()
-10. [Adaptive filtering]()
-11. [Machine learning from scratch]()
-12. [The Scikit-learn library]()
-13. [Data preparation]()
-14. [Model evaluation]()
-15. [Ensemble learning]()
-16. [Underfitting and overfitting]()
-17. [Probability density estimation]()
-18. [Clustering]()
-19. [Complete machine learning projects]()
-20. [Reinforcement learning]()
-21. [Concluding remarks]()
+8. [Introduction to machine learning](Notebooks/8_Introduction_to_machine_learning.ipynb)
+9. [Optimization for machine learning](Notebooks/9_Optimization_for_machine_learning.ipynb)
+10. [Adaptive filtering](Notebooks/10_Adaptive_filtering.ipynb)
+11. [Machine learning from scratch](Notebooks/11_Machine_learning_from_scratch.ipynb)
+12. [The Scikit-learn library](Notebooks/12_The_Scikit-learn_library.ipynb)
+13. [Data preparation](Notebooks/13_Data_preparation.ipynb)
+14. [Model evaluation](Notebooks/14_Model_evaluation.ipynb)
+15. [Ensemble learning](Notebooks/15_Ensemble_learning.ipynb)
+16. [Underfitting and overfitting](Notebooks/16_Underfitting_and_overfitting.ipynb)
+17. [Probability density estimation](Notebooks/17_Probability_density_estimation.ipynb)
+18. [Clustering](Notebooks/18_Clustering.ipynb)
+19. [Complete machine learning projects](Notebooks/19_Complete_machine_learning_projects.ipynb)
+20. [Reinforcement learning](Notebooks/20_Reinforcement_learning.ipynb)
+21. [Concluding remarks](Notebooks/21_Concluding_remarks.ipynb)
 <ol type="A">
-<li><a href="Data representation and sampling">Data representation and sampling]</a></li>
+<li><a href="Data representation and sampling">Notebooks/A_Data_representation_and_sampling.ipynb]</a></li>
 <li>[Probability and stochastic processes]()</li>
 <li>[Estimation theory]()</li>
 <li>[Metaheuristic optimization]()</li>
