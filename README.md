@@ -30,11 +30,11 @@ The book, based on the author's teaching experience, aims to introduce the funda
 21. [Concluding remarks](Notebooks/21_Concluding_remarks.ipynb)
 <ol type="A">
 <li><a href="Notebooks/A_Data_representation_and_sampling.ipynb">Data representation and sampling</a></li>
-<li>[Probability and stochastic processes]()</li>
-<li>[Estimation theory]()</li>
-<li>[Metaheuristic optimization]()</li>
-<li>[Reproducible machine learning]()</li>
-<li>[Ethics and responsible machine learning]()</li>
+<li><a href="Notebooks/B_Probability_and_stochastic_processes.ipynb">Probability and stochastic processes</a></li>
+<li><a href="Notebooks/C_Estimation_theory.ipynb">Estimation theory</a></li>
+<li><a href="Notebooks/D_Metaheuristic_optimization.ipynb">Metaheuristic optimization</a></li>
+<li><a href="Notebooks/E_Reproducible_machine_learning.ipynb">Reproducible machine learning</a></li>
+<li><a href="Notebooks/F_Ethics_and_responsible_machine_learning.ipynb">Ethics and responsible machine learning</a></li>
 </ol>
 
 
